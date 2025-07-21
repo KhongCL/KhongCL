@@ -75,9 +75,9 @@ Beyond coding, I'm also interested in:
 <br>
 <div align="left">
 
-* **LinkedIn:** <https://www.linkedin.com/in/khong-chee-leong-85a0b1288/>
+**LinkedIn:** <https://www.linkedin.com/in/khong-chee-leong/>
 
-* **Email:** khongcl1307@gmail.com
+**Email:** khongcl1307@gmail.com
 
 </div>
 
