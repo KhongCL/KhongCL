@@ -11,7 +11,9 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" /> <!-- Added Java -->
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=py" height="40" alt="Java logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
 <img width="12" />
