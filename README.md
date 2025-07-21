@@ -11,6 +11,8 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
 <img width="12" />
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" /> <!-- Added Java -->
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
@@ -33,8 +35,8 @@
 I enjoy turning ideas into functional applications. Here are a couple of highlights from my academic journey:
 
 * **TrafAnalyz (Capstone Project):** Led a 6-person team in the design and development of a web-based dashboard for accessible web traffic analysis. Developed core functionalities for GA4 data import, visualization, and comparative analysis.
-
-* **Responsive Web Design and Development (Techfit):** Led a 5-student team in the successful deployment of a fully functional responsive web application using HTML, CSS, JavaScript, MySQL and PHP, achieving a 4.0 GPA for the module.
+* **Responsive Web Design and Development (Techfit)::** Led a 5-student team in the successful deployment of a fully functional responsive web application using HTML, CSS, JavaScript, MySQL and PHP, achieving a 4.0 GPA for the module.
+* **APU Hostel Management Fees Payment System (AHMFPS):** Developed a Java-based desktop application to streamline hostel fee management, including secure authentication, user registration, payment processing, and room/fee management.
 
 Feel free to explore my pinned repositories below for more details on these and other projects!
 
@@ -64,14 +66,6 @@ Beyond coding, I'm also interested in:
 <img src="https://github-profile-trophy.vercel.app?username=KhongCL&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhongCL/KhongCL/output/github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhongCL/KhongCL/output/github-snake.svg">
-<img alt="github-snake" src="https://raw.githubusercontent.com/KhongCL/KhongCL/output/github-snake.svg">
-</picture>
-</div>
-
 ### 📫 Connect With Me
 
 <div align="center">
@@ -81,10 +75,16 @@ Beyond coding, I'm also interested in:
 <br>
 <div align="left">
 
-* **LinkedIn:** <https://www.linkedin.com/in/khong-chee-leong/>
+* **LinkedIn:** <https://www.linkedin.com/in/khong-chee-leong-85a0b1288/>
 
 * **Email:** khongcl1307@gmail.com
 
 </div>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhongCL/KhongCL/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhongCL/KhongCL/output/github-snake.svg">
+<img alt="github-snake" src="https://raw.githubusercontent.com/KhongCL/KhongCL/output/github-snake.svg">
+</picture>
 
 Thanks for visiting my profile! Let's build something amazing together
