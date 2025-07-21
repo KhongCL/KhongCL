@@ -73,6 +73,7 @@ Beyond coding, I'm also interested in:
     LinkedIn: https://www.linkedin.com/in/khong-chee-leong-85a0b1288/
 
     Email: khongcl1307@gmail.com
+
     </div>
 
 <div align="center">
@@ -85,4 +86,4 @@ Beyond coding, I'm also interested in:
 
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/KhongCL/KhongCL/output/snake.svg" alt="Snake animation" />
 
-Thanks for visiting my profile! Let's build something amazing together.
+Thanks for visiting my profile! Let's build something amazing together
