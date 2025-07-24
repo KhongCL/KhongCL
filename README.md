@@ -26,7 +26,7 @@
 
 * **Current Status:** Diploma in Information & Communication Technology (Software Engineering) student at Asia Pacific University (APU), graduating October 2025.
 
-* **Academic Achievement:** Strong academic record with a **3.98 CGPA**.
+* **Academic Achievement:** Strong academic record with a **current 3.98 CGPA**.
 
 * **Seeking:** Challenging IT/Software Engineering internship opportunities to apply my skills and gain practical industry experience.
 
@@ -36,9 +36,9 @@
 
 I enjoy turning ideas into functional applications. Here are a couple of highlights from my academic journey:
 
-* **TrafAnalyz (Capstone Project):** Led a 6-person team in the design and development of a web-based dashboard for accessible web traffic analysis. Developed core functionalities for GA4 data import, visualization, and comparative analysis.
-* **Responsive Web Design and Development (Techfit)::** Led a 5-student team in the successful deployment of a fully functional responsive web application using HTML, CSS, JavaScript, MySQL and PHP, achieving a 4.0 GPA for the module.
-* **APU Hostel Management Fees Payment System (AHMFPS):** Developed a Java-based desktop application to streamline hostel fee management, including secure authentication, user registration, payment processing, and room/fee management.
+* **TrafAnalyz (Capstone Project):** Led a 6-person team in the design and development of a web-based dashboard for accessible web traffic analysis. Developed core functionalities for GA4 data import, visualization, and comparative analysis. [View Project on GitHub](https://github.com/KhongCL/Capstone-Project) 
+* **Responsive Web Design and Development (Techfit)::** Led a 5-student team in the successful deployment of a fully functional responsive web application using HTML, CSS, JavaScript, MySQL and PHP, achieving a 4.0 GPA for the module. [View Project on GitHub](https://github.com/KhongCL/Techfit)
+* **APU Hostel Management Fees Payment System (AHMFPS):** Developed a Java-based desktop application to streamline hostel fee management, including secure authentication, user registration, payment processing, and room/fee management. [View Project on GitHub](https://github.com/KhongCL/AHMFPS)
 
 Feel free to explore my pinned repositories below for more details on these and other projects!
 
