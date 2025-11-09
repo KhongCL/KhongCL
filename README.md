@@ -26,7 +26,7 @@
 
 * **Current Status:** Diploma in Information & Communication Technology (Software Engineering) student at Asia Pacific University (APU), graduating October 2025.
 
-* **Academic Achievement:** Strong academic record with a **current 3.98 CGPA**.
+* **Academic Achievement:** Strong academic record with a **current 3.99 CGPA**.
 
 * **Seeking:** Challenging IT/Software Engineering internship opportunities to apply my skills and gain practical industry experience.
 
